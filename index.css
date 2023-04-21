@@ -1,0 +1,163 @@
+
+.bg-container {
+    background-image: linear-gradient(#F08080, #FFB6C1);
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.user-details {
+    margin: 10px;
+}
+
+.vl {
+    border: 2px solid #003166;
+    left: 50%;
+    position: absolute;
+    height: 210px;
+}
+
+
+
+.hr {
+    border: 2px solid #003166;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.work-experience-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.work-heading {
+    color: #003166;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.work-paragraph {
+    color: #003166;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.work-year {
+    padding: 10px;
+    color: #003166;
+    font-size: 16px;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #003166;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.description {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.skills-award-container {
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.interests {
+    background-color: #003166;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.fa {
+    font-size: 35px;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 33px;
+}
+
+.interest {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.fa-icon {
+    font-size: 100px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #003166;
+}
+
+.education-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.education-container {
+    display: flex;
+    margin: 10px;
+}
+
+.interest-container {
+    display: flex;
+    margin: 10px;
+}
+
+.work-logo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.work {
+    display: flex;
+    margin: 10px;
+}
+
+.fa-profile {
+    font-size: 70px;
+
+}
+
+.profile {
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.profile-details {
+    display: flex;
+
+
+}
+
+.profile-section {
+    display: flex;
+    margin: 10px;
+    height: 200px;
+
+}
